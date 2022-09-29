@@ -1,4 +1,4 @@
-# Репозиторий проектов по Аналитике данных.
+# Репозиторий проектов.
 
 1. [Исследование: Музыка больших городов](https://github.com/Mornonad/Data-Analytics-Projects/blob/master/Music_project.ipynb)
 
